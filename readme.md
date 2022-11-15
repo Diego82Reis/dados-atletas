@@ -1,0 +1,3 @@
+Esta ferramenta foi criada para ajudar o organizador de uma competição de ginástica artística. Este software é capaz de receber informações dos atletas e exibir a categoria, IMC, média calculada e demais informações capturadas.
+
+Para o código funcionar é só criar um novo objeto atleta com as informações dos atletas(nome, idade, peso, altura e notas), executando o código, retornara as informações do atleta como categoria, IMC, média calculada. 
